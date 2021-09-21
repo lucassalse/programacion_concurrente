@@ -1,0 +1,7 @@
+clase actividades - falta relacion con clase imprimir
+clase arrival - falta relacion con clase imprimir
+clase imprimir - falta lock de clase ReentrantLock
+Clase imprimir - ver los metodos setTiempoInicial y cotrolarTiempo
+Clase Main - falta metodo limpiarFichero()
+
+
